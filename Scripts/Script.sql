@@ -1,0 +1,1 @@
+grant all privilege on coffee_project.*to root@'%' identified by 'rootroot';
